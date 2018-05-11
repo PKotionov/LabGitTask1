@@ -9,3 +9,6 @@ This is my first task at the Lab.
 Create branch "Develope".
 
 ... realization, that there is a mistake in word  "Develope"
+
+Advanced actions: 
+The first commit
