@@ -7,3 +7,5 @@ This is my first task at the Lab.
 3. and the third and the last.
 
 Create branch "Develope".
+
+... realization, that there is a mistake in word  "Develope"
